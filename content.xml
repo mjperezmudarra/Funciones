@@ -1,0 +1,2401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260508174038BLDA2G</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260508174038BUC9MM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Las funciones que nos rodean: mirada matemática a lo cotidiano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Matemáticas B, 4º ESO</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>María José Pérez Mudarra</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>A través de esta SdA se  pretende que mi alumnado de Matemáticas B de 4º de ESO adquiera los conocimientos básicos sobre las funciones y conozca las propiedades gráficas de éstas. He pretendido introducir los saberes básicos para que puedan comprender el mundo que les rodea a través de una serie de tareas sencillas.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778254531805</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_extraHeadContent</key>
+    <value>Las funciones que nos rodean: mirada matemática a lo cotidiano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>footer</key>
+    <value>María José Pérez Mudarra</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mox0zy65-v3y8xibyv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. Organización de las tareas.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Organización de las tareas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. Organización de las tareas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy65-v3y8xibyv</odePageId>
+      <odeBlockId>block-1777995620654-6wg68vbff</odeBlockId>
+      <blockName>Introducción</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy65-v3y8xibyv</odePageId>
+          <odeBlockId>block-1777995620654-6wg68vbff</odeBlockId>
+          <odeIdeviceId>idevice-1777995620652-f451poba3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta SdA se realizarán una serie de tareas que te expongo en este epígrafe. Además, tendrás que utilizar una serie de recursos digitales que te servirán de ayuda, como por ejemplo: la graficadora de GeoGebra.</p>
+<p>    Este tema lo estudiaremos desde Google Classroom, te introducirás con tu usuario y contraseña de ipasen en tu classroom personal.</p>
+<p>    En este apartado, te mostraré una serie de tutoriales e información de los recursos a través de un padlet en el que podrás colaborar con las aportaciones que creas convenientes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995620652-f451poba3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta SdA se realizarán una serie de tareas que te expongo en este epígrafe. Además, tendrás que utilizar una serie de recursos digitales que te servirán de ayuda, como por ejemplo: la graficadora de GeoGebra.</p>\n<p>    Este tema lo estudiaremos desde Google Classroom, te introducirás con tu usuario y contraseña de ipasen en tu classroom personal.</p>\n<p>    En este apartado, te mostraré una serie de tutoriales e información de los recursos a través de un padlet en el que podrás colaborar con las aportaciones que creas convenientes.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6a-4osmmhxj7</odePageId>
+  <odeParentPageId>page-mox0zy65-v3y8xibyv</odeParentPageId>
+  <pageName>1.1. Tareas a realizar</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Tareas a realizar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.1. Tareas a realizar</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6a-4osmmhxj7</odePageId>
+      <odeBlockId>block-1777996283890-9dct7agnm</odeBlockId>
+      <blockName>Lista de tareas</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6a-4osmmhxj7</odePageId>
+          <odeBlockId>block-1777996283890-9dct7agnm</odeBlockId>
+          <odeIdeviceId>idevice-1777996283886-5m9jctwx2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este tema realizaremos una serie de tareas necesarias para adquirir los conocimientos básicos de las funciones y propiedades gráficas.</p>
+<p>La lista de tareas que tendrás que realizar para superar el tema son:</p>
+<ul>
+<li>Tarea 1: Ejercicios de concepto y representación de funciones.</li>
+<li>Tarea 2: Ejercicios de comprensión y propiedades gráficas.</li>
+<li>Tarea 3: Obtener ejemplos de la vida cotidiana y explicar las propiedades gráficas.</li>
+<li>Tarea 4: Realizar un resumen de los contenidos estudiados.</li>
+<li>Tarea 5: Autoevaluación del tema.</li>
+</ul>
+<p>Se adjunta un <a href="{{context_path}}/content/resources/Lista de tareas.pdf" target="_blank" title="" rel="noopener">pdf</a> detallado de las tareas.</p>
+<p style="text-align: center;"><iframe width="640" height="320" src="{{context_path}}/content/resources/Lista de tareas.pdf"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996283886-5m9jctwx2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este tema realizaremos una serie de tareas necesarias para adquirir los conocimientos básicos de las funciones y propiedades gráficas.</p>\n<p>La lista de tareas que tendrás que realizar para superar el tema son:</p>\n<ul>\n<li>Tarea 1: Ejercicios de concepto y representación de funciones.</li>\n<li>Tarea 2: Ejercicios de comprensión y propiedades gráficas.</li>\n<li>Tarea 3: Obtener ejemplos de la vida cotidiana y explicar las propiedades gráficas.</li>\n<li>Tarea 4: Realizar un resumen de los contenidos estudiados.</li>\n<li>Tarea 5: Autoevaluación del tema.</li>\n</ul>\n<p>Se adjunta un <a href=\"{{context_path}}/content/resources/Lista de tareas.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">pdf</a> detallado de las tareas.</p>\n<p style=\"text-align: center;\"><iframe width=\"640\" height=\"320\" src=\"{{context_path}}/content/resources/Lista de tareas.pdf\"></iframe></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6d-6l46luudw</odePageId>
+  <odeParentPageId>page-mox0zy65-v3y8xibyv</odeParentPageId>
+  <pageName>1.2. Padlet informativo.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. Padlet informativo.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.2. Padlet informativo.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6d-6l46luudw</odePageId>
+      <odeBlockId>block-1778001684357-0d0aubgu0</odeBlockId>
+      <blockName>Padlet</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6d-6l46luudw</odePageId>
+          <odeBlockId>block-1778001684357-0d0aubgu0</odeBlockId>
+          <odeIdeviceId>idevice-1778001684356-lpju80bux</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado os comparto un<strong> Padlet </strong>en el cual os dejo varias cosas:</p>
+<p>1. Links de las herramientas digitales que vamos a utilizar como ayuda para nuestras tareas: La graficadora de Geogebra y Canva.<br />2. Videotutoriales sencillos para mostraros cómo se utilizan dichas herramientas.<br />3. Ejemplos de la vida cotidiana donde aparecen las funciones.<br />4. Un resumen de los contenidos que vamos a estudiar en el tema.<br /></p>
+<p>En el padlet podéis agregar comentarios interesantes, vuestras propias aportaciones,... Ya que cómo os he comentado, es un tablón colaborativo que iremos rellenando entre todos/as.</p>
+<p>Pulsa aquí para <a href="https://padlet.com/mpermud211/funciones-en-la-vida-real-propiedades-graficas-wl5rqmbdsszbtk7l" target="_blank" title="" rel="noopener">abrir el muro</a></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778001684356-lpju80bux","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado os comparto un<strong> Padlet </strong>en el cual os dejo varias cosas:</p>\n<p>1. Links de las herramientas digitales que vamos a utilizar como ayuda para nuestras tareas: La graficadora de Geogebra y Canva.<br />2. Videotutoriales sencillos para mostraros cómo se utilizan dichas herramientas.<br />3. Ejemplos de la vida cotidiana donde aparecen las funciones.<br />4. Un resumen de los contenidos que vamos a estudiar en el tema.<br /></p>\n<p>En el padlet podéis agregar comentarios interesantes, vuestras propias aportaciones,... Ya que cómo os he comentado, es un tablón colaborativo que iremos rellenando entre todos/as.</p>\n<p>Pulsa aquí para <a href=\"https://padlet.com/mpermud211/funciones-en-la-vida-real-propiedades-graficas-wl5rqmbdsszbtk7l\" target=\"_blank\" title=\"\" rel=\"noopener\">abrir el muro</a></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6f-pwnsv34j2</odePageId>
+  <odeParentPageId>page-mox0zy65-v3y8xibyv</odeParentPageId>
+  <pageName>1.3.Tutoriales de los recursos digitales que utilizaremos.</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3.Tutoriales de los recursos digitales que utilizaremos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1.3.Tutoriales de los recursos digitales que utilizaremos.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6f-pwnsv34j2</odePageId>
+      <odeBlockId>block-1778003577776-vdhoumehm</odeBlockId>
+      <blockName>GeoGebra Clásico</blockName>
+      <iconName>calculate</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6f-pwnsv34j2</odePageId>
+          <odeBlockId>block-1778003577776-vdhoumehm</odeBlockId>
+          <odeIdeviceId>idevice-1778003577772-154wid5ye</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Imagen GeoGebra.jpg" width="60" height="60" alt="" /> La Calculadora Gráfica de Geogebra es una herramienta bastante útil para representar funciones que vengan a partir de una fórmula, realizar tablas de valores, estudiar propiedades gráficas de las funciones.</p>
+<p>     Os dejo un vídeo tutorial de la Calculadora Gráfica de GeoGebra, de que nos mostrará de forma sencilla cómo manejarla. <a href="https://www.youtube.com/watch?v=-uwDhkBm6CI&t=7s" target="_blank" rel="noopener" title="">Pinchar aquí</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778003577772-154wid5ye","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Imagen GeoGebra.jpg\" width=\"60\" height=\"60\" alt=\"\" /> La Calculadora Gráfica de Geogebra es una herramienta bastante útil para representar funciones que vengan a partir de una fórmula, realizar tablas de valores, estudiar propiedades gráficas de las funciones.</p>\n<p>     Os dejo un vídeo tutorial de la Calculadora Gráfica de GeoGebra, de que nos mostrará de forma sencilla cómo manejarla. <a href=\"https://www.youtube.com/watch?v=-uwDhkBm6CI&t=7s\" target=\"_blank\" rel=\"noopener\" title=\"\">Pinchar aquí</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6f-pwnsv34j2</odePageId>
+      <odeBlockId>block-1778004087560-ax1q472r4</odeBlockId>
+      <blockName>Canva</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6f-pwnsv34j2</odePageId>
+          <odeBlockId>block-1778004087560-ax1q472r4</odeBlockId>
+          <odeIdeviceId>idevice-1778004087556-3jj7gdotl</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/imagen Canva.jpg" width="50" height="50" alt="" /> La segunda herramienta digital que vamos a utilizar es: Canva. Aunque seguro que ya sabéis utilizarla de trabajos anteriores, os dejo un vídeo tutorial sencillo de Youtube para recordaros cómo se utiliza. <a href="https://www.symbaloo.com/shared/AAAAAenv7j0AA41-5EXSSg==" target="_blank" title="" rel="noopener">Pincha aquí</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778004087556-3jj7gdotl","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/imagen Canva.jpg\" width=\"50\" height=\"50\" alt=\"\" /> La segunda herramienta digital que vamos a utilizar es: Canva. Aunque seguro que ya sabéis utilizarla de trabajos anteriores, os dejo un vídeo tutorial sencillo de Youtube para recordaros cómo se utiliza. <a href=\"https://www.symbaloo.com/shared/AAAAAenv7j0AA41-5EXSSg==\" target=\"_blank\" title=\"\" rel=\"noopener\">Pincha aquí</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6h-esqlceu9r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. Concepto de función y representación.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Concepto de función y representación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. Concepto de función y representación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. Concepto de función y representación.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6h-esqlceu9r</odePageId>
+      <odeBlockId>block-1778005245347-4l4lfs8vb</odeBlockId>
+      <blockName>Conceptos básicos</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6h-esqlceu9r</odePageId>
+          <odeBlockId>block-1778005245347-4l4lfs8vb</odeBlockId>
+          <odeIdeviceId>idevice-1778005245347-fet68jwr0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>1. Definición de Función</strong>: Una función es una relación entre dos magnitudes que cumpla la condición de que a cada valor de una de ellas (llamada variable independiente) le corresponda un único valor de la otra (llamada variable dependiente).</p>
+<p style="text-align: center;"><img src="{{context_path}}/content/resources/imagen concepto función.png" width="614" height="261" alt="" /><br /></p>
+<p><strong>2. Formas de expresar una función:</strong></p>
+<p>    Una función se puede expresar de diferentes formas:</p>
+<ul>
+<li> <strong>Con un enunciado:</strong> Consiste en expresar con palabras la relación que existe entre las dos magnitudes. Ejemplo: "A cada número real le hacemos corresponder su cuadrado".</li>
+<li><strong>A través de una tabla de valores:</strong> Consiste en representar mediante una tabla las dos magnitudes. En dicha tabla aparecerán varios valores de la variable independiente y los correspondientes de la dependient</li>
+<li><strong>A partir de una fórmula: </strong>Consiste en expresar mediante una fórmula la relación existente entre ambas magnitudes o variables. Ejemplos:</li>
+</ul>
+<p><img src="{{context_path}}/content/resources/fondo_de_funciones_a_partir_de_formulas.png" width="660" height="52" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li> <strong>A partir de una gráfica: </strong>Consiste en representar en un par de ejes de coordenadas la relación existente entre las dos variables o magnitudes. La variable independiente la representaremos en el eje de abcisas u horizontal y la dependiente en el eje de ordenadas o vertical.<br />Ejemplo: </li>
+</ul>
+<p><img src="{{context_path}}/content/resources/funcion_dada_a_partir_de_una_grafica.png" width="798" height="366" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>3. Paso de unas formas a otras de una función:</strong></p>
+<p>Ejemplo: Si nos dan una fórmula, podemos construir su tabla de valores asociada y representar en un par de ejes de coordenadas los puntos que nos proporciona la tabla.</p>
+<p>: <img src="{{context_path}}/content/resources/paso_de_formula_a_grafica.png" width="855" height="372" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778005245347-fet68jwr0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>1. Definición de Función</strong>: Una función es una relación entre dos magnitudes que cumpla la condición de que a cada valor de una de ellas (llamada variable independiente) le corresponda un único valor de la otra (llamada variable dependiente).</p>\n<p style=\"text-align: center;\"><img src=\"{{context_path}}/content/resources/imagen concepto función.png\" width=\"614\" height=\"261\" alt=\"\" /><br /></p>\n<p><strong>2. Formas de expresar una función:</strong></p>\n<p>    Una función se puede expresar de diferentes formas:</p>\n<ul>\n<li> <strong>Con un enunciado:</strong> Consiste en expresar con palabras la relación que existe entre las dos magnitudes. Ejemplo: \"A cada número real le hacemos corresponder su cuadrado\".</li>\n<li><strong>A través de una tabla de valores:</strong> Consiste en representar mediante una tabla las dos magnitudes. En dicha tabla aparecerán varios valores de la variable independiente y los correspondientes de la dependient</li>\n<li><strong>A partir de una fórmula: </strong>Consiste en expresar mediante una fórmula la relación existente entre ambas magnitudes o variables. Ejemplos:</li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/fondo_de_funciones_a_partir_de_formulas.png\" width=\"660\" height=\"52\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<ul>\n<li> <strong>A partir de una gráfica: </strong>Consiste en representar en un par de ejes de coordenadas la relación existente entre las dos variables o magnitudes. La variable independiente la representaremos en el eje de abcisas u horizontal y la dependiente en el eje de ordenadas o vertical.<br />Ejemplo: </li>\n</ul>\n<p><img src=\"{{context_path}}/content/resources/funcion_dada_a_partir_de_una_grafica.png\" width=\"798\" height=\"366\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>3. Paso de unas formas a otras de una función:</strong></p>\n<p>Ejemplo: Si nos dan una fórmula, podemos construir su tabla de valores asociada y representar en un par de ejes de coordenadas los puntos que nos proporciona la tabla.</p>\n<p>: <img src=\"{{context_path}}/content/resources/paso_de_formula_a_grafica.png\" width=\"855\" height=\"372\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+  <odeParentPageId>page-mox0zy6h-esqlceu9r</odeParentPageId>
+  <pageName>2.1. Tarea 1: Ejercicios de concepto y representación de funciones.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Tarea 1: Ejercicios de concepto y representación de funciones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2.1. Tarea 1: Ejercicios de concepto y representación de funciones.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2.1. Tarea 1: Ejercicios de concepto y representación de funciones.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+      <odeBlockId>block-1778089902425-f1v72pnpz</odeBlockId>
+      <blockName>Ejercicios de concepto y representación de funciones</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+          <odeBlockId>block-1778089902425-f1v72pnpz</odeBlockId>
+          <odeIdeviceId>idevice-1778089902420-s267y9tiw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>      Una vez estudiados los conceptos básicos del apartado anterior, os propongo una ficha de ejercicios para comprobar si hemos comprendido los contenidos básicos.</p>
+<p>     Información a tener en cuenta:</p>
+<ul>
+<li>Dicha ficha la tenéis en vuestro Google Classroom o la podréis descargar a través del enlace que aparece más abajo.</li>
+<li>Los ejercicios son para realizarlos en vuestro cuaderno de clase y de forma individual.</li>
+<li>Podréis utilizar GeoGebra para comprobar los resultados obtenidos.</li>
+<li>Escanearéis los ejercicios de vuestro cuaderno en formato pdf y me la enviaréis a través de la tarea que tenéis creada en Google Classroom.</li>
+<li>Tenéis para hacer los ejercicios una hora de clase y los que no terminéis los haréis en casa.</li>
+<li>Os dejo una rúbrica de valoración para que podáis tener en cuenta lo que os voy a valorar.</li>
+<li>La nota la pondré a través de la tarea de Google Classroom.<br /><br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778089902420-s267y9tiw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>      Una vez estudiados los conceptos básicos del apartado anterior, os propongo una ficha de ejercicios para comprobar si hemos comprendido los contenidos básicos.</p>\n<p>     Información a tener en cuenta:</p>\n<ul>\n<li>Dicha ficha la tenéis en vuestro Google Classroom o la podréis descargar a través del enlace que aparece más abajo.</li>\n<li>Los ejercicios son para realizarlos en vuestro cuaderno de clase y de forma individual.</li>\n<li>Podréis utilizar GeoGebra para comprobar los resultados obtenidos.</li>\n<li>Escanearéis los ejercicios de vuestro cuaderno en formato pdf y me la enviaréis a través de la tarea que tenéis creada en Google Classroom.</li>\n<li>Tenéis para hacer los ejercicios una hora de clase y los que no terminéis los haréis en casa.</li>\n<li>Os dejo una rúbrica de valoración para que podáis tener en cuenta lo que os voy a valorar.</li>\n<li>La nota la pondré a través de la tarea de Google Classroom.<br /><br /></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+      <odeBlockId>block-1778090168199-weassxc75</odeBlockId>
+      <blockName>Tarea1: Ficha de ejercicios.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+          <odeBlockId>block-1778090168199-weassxc75</odeBlockId>
+          <odeIdeviceId>idevice-1778090168196-4fsrik3g1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de este enlace podréis descargar en formato pdf la ficha de ejercicios de la tarea 1.</p>
+<p><a href="{{context_path}}/content/resources/Ficha inicial de ejercicios.pdf" target="_blank" title="" rel="noopener">Ficha inicial de ejercicios.</a></p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Ficha inicial de ejercicios.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778090168196-4fsrik3g1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de este enlace podréis descargar en formato pdf la ficha de ejercicios de la tarea 1.</p>\n<p><a href=\"{{context_path}}/content/resources/Ficha inicial de ejercicios.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">Ficha inicial de ejercicios.</a></p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Ficha inicial de ejercicios.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+      <odeBlockId>block-1778090667345-n0v2bpmb8</odeBlockId>
+      <blockName>Rúbrica de valoración de la tarea 1.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6i-ngyipu390</odePageId>
+          <odeBlockId>block-1778090667345-n0v2bpmb8</odeBlockId>
+          <odeIdeviceId>idevice-1778090667342-rsvh3ahag</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta <a href="{{context_path}}/content/resources/Rúbrica de la ficha de ejercicios.pdf" target="_blank" title="" rel="noopener">rúbrica</a> os permitirá conocer cómo y lo qué os voy a valorar en la tarea 1. Tenedla en cuenta antes de comenzar la tarea. Esta rúbrica os permitirá conocer cómo y lo qué os voy a valorar en la tarea 1. Tenedla en cuenta antes de comenzar la tarea.</p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Rúbrica de la ficha de ejercicios.pdf"></iframe></p>
+<p style="text-align: center;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778090667342-rsvh3ahag","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta <a href=\"{{context_path}}/content/resources/Rúbrica de la ficha de ejercicios.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">rúbrica</a> os permitirá conocer cómo y lo qué os voy a valorar en la tarea 1. Tenedla en cuenta antes de comenzar la tarea. Esta rúbrica os permitirá conocer cómo y lo qué os voy a valorar en la tarea 1. Tenedla en cuenta antes de comenzar la tarea.</p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rúbrica de la ficha de ejercicios.pdf\"></iframe></p>\n<p style=\"text-align: center;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6k-oy8evsqck</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Propiedades de gráficas de funciones</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Propiedades de gráficas de funciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Propiedades de gráficas de funciones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Propiedades de gráficas de funciones</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6k-oy8evsqck</odePageId>
+      <odeBlockId>block-1778091080864-j0xk87fcf</odeBlockId>
+      <blockName>Propiedades gráficas de las funciones.</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6k-oy8evsqck</odePageId>
+          <odeBlockId>block-1778091080864-j0xk87fcf</odeBlockId>
+          <odeIdeviceId>idevice-1778091080865-g0zwt22h5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Una vez que controlamos los conceptos básicos de las funciones y las formas de representación de funciones. Vamos a pasar a analizar las propiedades gráficas características que tienen las funciones.</p>
+<p><strong>1. Dominio y recorrido de una función</strong>: </p>
+<ul>
+<li><strong>Dominio de una función</strong>: el dominio de una función f, es el conjunto de valores que toma la variable independiente. Se representa como: Dom(f) o D(f).</li>
+<li><strong>Imagen o recorrido de una función</strong>: La imagen o recorrido de una función f, es el conjunto de valores que toma la variable dependiente. Se representa como: Im(f) o R(f).</li>
+</ul>
+<p><strong>          <span style="text-decoration: underline;"> Ejemplos:</span></strong></p>
+<p><img src="{{context_path}}/content/resources/ejemplos_de_dominio_y_recorrido.png" width="804" height="729" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>2. Monotonía y extremos de una función.</strong></p>
+<p>    Estudiemos los conceptos básicos sobre la monotonía de una función:</p>
+<ul>
+<li><strong>Creciente: </strong>Una función f es creciente si a medida que avanzamos sobre el eje X, la función aumenta.</li>
+<li><strong>Decreciente:</strong> Una función f es decreciente, si a medida que avanzamos sobre el eje X, la función disminuye.</li>
+</ul>
+<p>Veamos ahora lo que se entiende por extremos relativos y absolutos de una función:</p>
+<ul>
+<li><strong>Máximo relativo:</strong> una función se dice que alcanza un máximo relativo o local en un punto de abcisas x = a, si "cerca" de el (por la izquierda y por la derecha) f alcanza el máximo valor de la función.</li>
+<li><strong>Mínimo relativo: </strong>una función se dice que alcanza un mínimo relativo o local en un punto de abcisas x = a, si "cerca" de el (por la izquierda y por la derecha) f alcanza el menor valor de la función.</li>
+<li><strong>Máximo absoluto:</strong> una función alcanza en x = a un máximo absoluto, si toma en dicho valor el mayor de todos los de la función.</li>
+<li><strong>Mínimo absoluto: </strong>una función alcanza en x = a un mínimo absoluto, si toma en dicho valor el menor de todos los de la función<span style="text-decoration: underline;"><strong></strong></span></li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Ejemplo:</strong></span></p>
+<p><img src="{{context_path}}/content/resources/ejemplo_2_de_creciente_y_decreciente.png" width="804" height="324" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><span style="text-decoration: underline;"><strong>Ejemplo: </strong></span></p>
+<p><img src="{{context_path}}/content/resources/ejemplo_2_de_extremos_relativos_y_absolutos.png" width="795" height="487" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>3. Simetría. Periodicidad.</strong><br /></p>
+<p>Pasemos a estudiar en este apartado otras dos propiedades gráficas: la simetría y la periodicidad.</p>
+<ul>
+<li><strong>Simetría:</strong> Una función f se dice que es:<br />            <strong>Par o simétrica respecto del eje Y:</strong> Si al doblar la hoja por el eje y, coincide una parte de la gráfica con la otra, es decir, si se cumple:</li>
+</ul>
+<p>                          f(- x) = f(x) para cualquier número x del dominio.</p>
+<p><strong>           </strong><span style="text-decoration: underline;"><strong>Ejemplo: </strong></span></p>
+<p><img src="{{context_path}}/content/resources/ejemplo_de_funcion_par.png" width="272" height="242" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p>                     <strong> Impar o simétrica respecto del origen de coordenadas:</strong> Si al doblar la hoja primero por el eje x y después por el eje y coincide una parte con otra, es decir, si se cumple:</p>
+<p>                                             f(-x) = - f(x) para cualquier valor x del dominio.</p>
+<p><strong>           </strong><span style="text-decoration: underline;"><strong>Ejemplo:</strong></span></p>
+<p><img src="{{context_path}}/content/resources/ejemplo_de_funcion_impar.png" width="150" height="288" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<ul>
+<li><strong>Periodicidad:</strong> Una función es periódica, si se va repitiendo indefinidamente y a la longitud del "trozo" que se va repitiendo, se le llama periodo, es decir, si se cumple:<br />       Si existe un número T, llamado periodo que:            f(x + T) = f(x) para cualquier valor x del domin<strong></strong></li>
+</ul>
+<p><strong>         <span style="text-decoration: underline;">  Ejemplo:</span></strong></p>
+<p><br /></p>
+<p><img src="{{context_path}}/content/resources/ejemplo_de_funcion_periodica.png" width="438" height="158" alt="" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091080865-g0zwt22h5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Una vez que controlamos los conceptos básicos de las funciones y las formas de representación de funciones. Vamos a pasar a analizar las propiedades gráficas características que tienen las funciones.</p>\n<p><strong>1. Dominio y recorrido de una función</strong>: </p>\n<ul>\n<li><strong>Dominio de una función</strong>: el dominio de una función f, es el conjunto de valores que toma la variable independiente. Se representa como: Dom(f) o D(f).</li>\n<li><strong>Imagen o recorrido de una función</strong>: La imagen o recorrido de una función f, es el conjunto de valores que toma la variable dependiente. Se representa como: Im(f) o R(f).</li>\n</ul>\n<p><strong>          <span style=\"text-decoration: underline;\"> Ejemplos:</span></strong></p>\n<p><img src=\"{{context_path}}/content/resources/ejemplos_de_dominio_y_recorrido.png\" width=\"804\" height=\"729\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>2. Monotonía y extremos de una función.</strong></p>\n<p>    Estudiemos los conceptos básicos sobre la monotonía de una función:</p>\n<ul>\n<li><strong>Creciente: </strong>Una función f es creciente si a medida que avanzamos sobre el eje X, la función aumenta.</li>\n<li><strong>Decreciente:</strong> Una función f es decreciente, si a medida que avanzamos sobre el eje X, la función disminuye.</li>\n</ul>\n<p>Veamos ahora lo que se entiende por extremos relativos y absolutos de una función:</p>\n<ul>\n<li><strong>Máximo relativo:</strong> una función se dice que alcanza un máximo relativo o local en un punto de abcisas x = a, si \"cerca\" de el (por la izquierda y por la derecha) f alcanza el máximo valor de la función.</li>\n<li><strong>Mínimo relativo: </strong>una función se dice que alcanza un mínimo relativo o local en un punto de abcisas x = a, si \"cerca\" de el (por la izquierda y por la derecha) f alcanza el menor valor de la función.</li>\n<li><strong>Máximo absoluto:</strong> una función alcanza en x = a un máximo absoluto, si toma en dicho valor el mayor de todos los de la función.</li>\n<li><strong>Mínimo absoluto: </strong>una función alcanza en x = a un mínimo absoluto, si toma en dicho valor el menor de todos los de la función<span style=\"text-decoration: underline;\"><strong></strong></span></li>\n</ul>\n<p><span style=\"text-decoration: underline;\"><strong>Ejemplo:</strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/ejemplo_2_de_creciente_y_decreciente.png\" width=\"804\" height=\"324\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><span style=\"text-decoration: underline;\"><strong>Ejemplo: </strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/ejemplo_2_de_extremos_relativos_y_absolutos.png\" width=\"795\" height=\"487\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>3. Simetría. Periodicidad.</strong><br /></p>\n<p>Pasemos a estudiar en este apartado otras dos propiedades gráficas: la simetría y la periodicidad.</p>\n<ul>\n<li><strong>Simetría:</strong> Una función f se dice que es:<br />            <strong>Par o simétrica respecto del eje Y:</strong> Si al doblar la hoja por el eje y, coincide una parte de la gráfica con la otra, es decir, si se cumple:</li>\n</ul>\n<p>                          f(- x) = f(x) para cualquier número x del dominio.</p>\n<p><strong>           </strong><span style=\"text-decoration: underline;\"><strong>Ejemplo: </strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/ejemplo_de_funcion_par.png\" width=\"272\" height=\"242\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p>                     <strong> Impar o simétrica respecto del origen de coordenadas:</strong> Si al doblar la hoja primero por el eje x y después por el eje y coincide una parte con otra, es decir, si se cumple:</p>\n<p>                                             f(-x) = - f(x) para cualquier valor x del dominio.</p>\n<p><strong>           </strong><span style=\"text-decoration: underline;\"><strong>Ejemplo:</strong></span></p>\n<p><img src=\"{{context_path}}/content/resources/ejemplo_de_funcion_impar.png\" width=\"150\" height=\"288\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<ul>\n<li><strong>Periodicidad:</strong> Una función es periódica, si se va repitiendo indefinidamente y a la longitud del \"trozo\" que se va repitiendo, se le llama periodo, es decir, si se cumple:<br />       Si existe un número T, llamado periodo que:            f(x + T) = f(x) para cualquier valor x del domin<strong></strong></li>\n</ul>\n<p><strong>         <span style=\"text-decoration: underline;\">  Ejemplo:</span></strong></p>\n<p><br /></p>\n<p><img src=\"{{context_path}}/content/resources/ejemplo_de_funcion_periodica.png\" width=\"438\" height=\"158\" alt=\"\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+  <odeParentPageId>page-mox0zy6k-oy8evsqck</odeParentPageId>
+  <pageName>3.1. Tarea 2: Ejercicios de comprensión de las propiedades gráficas.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Tarea 2: Ejercicios de comprensión de las propiedades gráficas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3.1. Tarea 2: Ejercicios de comprensión de las propiedades gráficas.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3.1. Tarea 2: Ejercicios de comprensión de las propiedades gráficas.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+      <odeBlockId>block-1778091080866-rowogr8f7</odeBlockId>
+      <blockName>Información para realizar la tarea 2.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+          <odeBlockId>block-1778091080866-rowogr8f7</odeBlockId>
+          <odeIdeviceId>idevice-1778091080866-jvwtxkwve</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>     Una vez estudiados las propiedades gráficas de las funciones, os propongo una ficha de ejercicios para comprobar si hemos comprendido dichos conceptos.</p>
+<p>     Información a tener en cuenta:</p>
+<ul>
+<li>Dicha ficha la tenéis en vuestro Google Classroom o la podréis descargar a través del enlace que aparece más abajo.</li>
+<li>Los ejercicios son para realizarlos en vuestro cuaderno de clase y de forma individual.</li>
+<li>Os apoyaréis en la graficadora de Geogebra para comprobar los resultados obtenidos.</li>
+<li>Escanearéis los ejercicios de vuestro cuaderno en formato pdf y me la enviaréis a través de la tarea que tenéis creada en Google Classroom.</li>
+<li>Tenéis para hacer los ejercicios tres horas de clase y los que no terminéis los haréis en casa.</li>
+</ul>
+<p>Os dejo una rúbrica de valoración para que podáis tener en cuenta lo que os voy a valorar.<br />La nota la pondré a través de la tarea de Google Classroom.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091080866-jvwtxkwve","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>     Una vez estudiados las propiedades gráficas de las funciones, os propongo una ficha de ejercicios para comprobar si hemos comprendido dichos conceptos.</p>\n<p>     Información a tener en cuenta:</p>\n<ul>\n<li>Dicha ficha la tenéis en vuestro Google Classroom o la podréis descargar a través del enlace que aparece más abajo.</li>\n<li>Los ejercicios son para realizarlos en vuestro cuaderno de clase y de forma individual.</li>\n<li>Os apoyaréis en la graficadora de Geogebra para comprobar los resultados obtenidos.</li>\n<li>Escanearéis los ejercicios de vuestro cuaderno en formato pdf y me la enviaréis a través de la tarea que tenéis creada en Google Classroom.</li>\n<li>Tenéis para hacer los ejercicios tres horas de clase y los que no terminéis los haréis en casa.</li>\n</ul>\n<p>Os dejo una rúbrica de valoración para que podáis tener en cuenta lo que os voy a valorar.<br />La nota la pondré a través de la tarea de Google Classroom.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+      <odeBlockId>block-1778091080866-at5qy64sf</odeBlockId>
+      <blockName>Tarea 2: Ficha de ejercicios de comprensión de las propiedades gráficas de las funciones.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+          <odeBlockId>block-1778091080866-at5qy64sf</odeBlockId>
+          <odeIdeviceId>idevice-1778091080866-6rgwsstjp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través de este <a href="{{context_path}}/content/resources/Ficha de ejercicios comprensión de características gráficas.pdf" target="_blank" title="" rel="noopener">enlace </a>podréis descargar en formato pdf la ficha de ejercicios de la tarea 2.</p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Ficha de ejercicios comprensión de características gráficas.pdf"></iframe></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091080866-6rgwsstjp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través de este <a href=\"{{context_path}}/content/resources/Ficha de ejercicios comprensión de características gráficas.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">enlace </a>podréis descargar en formato pdf la ficha de ejercicios de la tarea 2.</p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Ficha de ejercicios comprensión de características gráficas.pdf\"></iframe></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+      <odeBlockId>block-1778091080866-7v923fi6q</odeBlockId>
+      <blockName>Rúbrica de valoración de la tarea 2.</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6l-1v3fvkxc2</odePageId>
+          <odeBlockId>block-1778091080866-7v923fi6q</odeBlockId>
+          <odeIdeviceId>idevice-1778091080866-iy9pe680z</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta <a href="{{context_path}}/content/resources/Rubrica segunda de valoracion.pdf" target="_blank" title="" rel="noopener">rúbrica</a> os permitirá conocer cómo y lo qué os voy a valorar en la tarea 2. Tenedla en cuenta antes de comenzar la tarea. Esta rúbrica os permitirá conocer cómo y lo qué os voy a valorar en la tarea 2. Tenedla en cuenta antes de comenzar la tarea.</p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Rubrica segunda de valoracion.pdf"></iframe></p>
+<p><br /></p>
+<p style="text-align: center;"><br /></p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778091080866-iy9pe680z","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta <a href=\"{{context_path}}/content/resources/Rubrica segunda de valoracion.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">rúbrica</a> os permitirá conocer cómo y lo qué os voy a valorar en la tarea 2. Tenedla en cuenta antes de comenzar la tarea. Esta rúbrica os permitirá conocer cómo y lo qué os voy a valorar en la tarea 2. Tenedla en cuenta antes de comenzar la tarea.</p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rubrica segunda de valoracion.pdf\"></iframe></p>\n<p><br /></p>\n<p style=\"text-align: center;\"><br /></p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Aplica lo estudiado. Tarea 3.</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Aplica lo estudiado. Tarea 3.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Aplica lo estudiado. Tarea 3.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>4. Aplica lo estudiado. Tarea 3.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+      <odeBlockId>block-1778096961336-iymfu344r</odeBlockId>
+      <blockName>Información para realizar la tarea 3.</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+          <odeBlockId>block-1778096961336-iymfu344r</odeBlockId>
+          <odeIdeviceId>idevice-1778096961336-paxwwrn99</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea vamos a aplicar lo que hemos aprendido a situaciones cotidianas. Para realizar esta tarea tendrás:</p>
+<ul>
+<li>Busca a través de internet situaciones de la vida cotidiana que puedan explicarse a través de las funciones y realiza una presentación con Canva.</li>
+<li>Encontrarás en la tarea que está en Google Classroom. Una vez realizada, la expondrás a la clase y me la enviarás en pdf a través de la tarea.</li>
+<li>Lo realizarás en grupo de 4 personas que formaré yo en clase.</li>
+<li>Utilizaremos Google Classroom para el desarrollo en entrega de la unidad.</li>
+<li>La Graficadora de Geogebra para representar funciones.</li>
+<li>Canva para realizar un mural del trabajo realizado y se expondrá desde la pizarra digital.</li>
+<li>Duración: 3 horas de clase.</li>
+</ul>
+<p> Os dejo un fichero con ejemplos de la vida cotidiana en las cuales aparecen funciones para que os sirva de ejemplo.</p>
+<p> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778096961336-paxwwrn99","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea vamos a aplicar lo que hemos aprendido a situaciones cotidianas. Para realizar esta tarea tendrás:</p>\n<ul>\n<li>Busca a través de internet situaciones de la vida cotidiana que puedan explicarse a través de las funciones y realiza una presentación con Canva.</li>\n<li>Encontrarás en la tarea que está en Google Classroom. Una vez realizada, la expondrás a la clase y me la enviarás en pdf a través de la tarea.</li>\n<li>Lo realizarás en grupo de 4 personas que formaré yo en clase.</li>\n<li>Utilizaremos Google Classroom para el desarrollo en entrega de la unidad.</li>\n<li>La Graficadora de Geogebra para representar funciones.</li>\n<li>Canva para realizar un mural del trabajo realizado y se expondrá desde la pizarra digital.</li>\n<li>Duración: 3 horas de clase.</li>\n</ul>\n<p> Os dejo un fichero con ejemplos de la vida cotidiana en las cuales aparecen funciones para que os sirva de ejemplo.</p>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+      <odeBlockId>block-1778097226456-adouxvvox</odeBlockId>
+      <blockName>Funciones en la vida cotidiana</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+          <odeBlockId>block-1778097226456-adouxvvox</odeBlockId>
+          <odeIdeviceId>idevice-1778097226455-z85wh40zt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>  A través del siguiente enlace, obtendrás un fichero pdf con ejemplos de funciones en la vida cotidiana.</p>
+<p><a href="{{context_path}}/content/resources/ejemplos de funciones en la vida cotidiana.pdf" title="">Ejemplos de funciones en la vida cotidiana pdf. </a></p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/ejemplos de funciones en la vida cotidiana.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778097226455-z85wh40zt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>  A través del siguiente enlace, obtendrás un fichero pdf con ejemplos de funciones en la vida cotidiana.</p>\n<p><a href=\"{{context_path}}/content/resources/ejemplos de funciones en la vida cotidiana.pdf\" title=\"\">Ejemplos de funciones en la vida cotidiana pdf. </a></p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/ejemplos de funciones en la vida cotidiana.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+      <odeBlockId>block-1778097529941-kpt58ks5i</odeBlockId>
+      <blockName>Rúbrica de valoración de la Tarea 3.</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6m-95f8pku8o</odePageId>
+          <odeBlockId>block-1778097529941-kpt58ks5i</odeBlockId>
+          <odeIdeviceId>idevice-1778097529938-5q0o35ata</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os dejo una <a href="{{context_path}}/content/resources/rubrica para la tarea 3.pdf" target="_blank" title="" rel="noopener">rúbrica </a>con los aspectos que voy a valorar a la hora de realizar la tarea 3.</p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/rubrica para la tarea 3.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778097529938-5q0o35ata","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo una <a href=\"{{context_path}}/content/resources/rubrica para la tarea 3.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">rúbrica </a>con los aspectos que voy a valorar a la hora de realizar la tarea 3.</p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/rubrica para la tarea 3.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Tarea 4: Realiza un resumen de los contenidos estudiados.</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Tarea 4: Realiza un resumen de los contenidos estudiados.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Tarea 4: Realiza un resumen de los contenidos estudiados.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Tarea 4: Realiza un resumen de los contenidos estudiados.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+      <odeBlockId>block-1778098064733-w35nmklow</odeBlockId>
+      <blockName>Resumen del tema. Tarea 4.</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+          <odeBlockId>block-1778098064733-w35nmklow</odeBlockId>
+          <odeIdeviceId>idevice-1778098064733-vg0vz9mu7</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En esta tarea realizarás un resumen de todos los contenidos y propiedades gráficas de las funciones estudiadas en el tema:</p>
+<ul>
+<li>Encontrarás en la tarea que está en Google Classroom. Una vez realizada, me enviarás el enlace del Canva realizado.</li>
+<li>La realizarás en grupos de 2 personas que organizaré yo en clase.</li>
+<li>Lugar de realización: En el aula clase desde los portátiles del instituto que tendré reservados. Lo que no dé tiempo, se terminará en casa.</li>
+<li>Utilizaremos Google Classroom para el desarrollo en entrega de la unidad. Canva para realizar el resumen. Se enviará el enlace a través de la tarea.</li>
+<li>Duración aproximada: 1 hora de clase.</li>
+</ul>
+<p>Os dejo un fichero pdf con un resumen de lo estudiado en el tema para que os sirva de ayuda.</p>
+<p> <br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098064733-vg0vz9mu7","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En esta tarea realizarás un resumen de todos los contenidos y propiedades gráficas de las funciones estudiadas en el tema:</p>\n<ul>\n<li>Encontrarás en la tarea que está en Google Classroom. Una vez realizada, me enviarás el enlace del Canva realizado.</li>\n<li>La realizarás en grupos de 2 personas que organizaré yo en clase.</li>\n<li>Lugar de realización: En el aula clase desde los portátiles del instituto que tendré reservados. Lo que no dé tiempo, se terminará en casa.</li>\n<li>Utilizaremos Google Classroom para el desarrollo en entrega de la unidad. Canva para realizar el resumen. Se enviará el enlace a través de la tarea.</li>\n<li>Duración aproximada: 1 hora de clase.</li>\n</ul>\n<p>Os dejo un fichero pdf con un resumen de lo estudiado en el tema para que os sirva de ayuda.</p>\n<p> <br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+      <odeBlockId>block-1778098064733-t6y2s6umi</odeBlockId>
+      <blockName>Resumen de los contenidos estudiados en el tema</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+          <odeBlockId>block-1778098064733-t6y2s6umi</odeBlockId>
+          <odeIdeviceId>idevice-1778098064733-xgx2v5xc2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> </p>
+<p>A través del siguiente enlace, os podéis descargar un fichero pdf con un resumen de lo que hemos visto en este tema.</p>
+<p>Espero que os sirva de ayuda.</p>
+<p><a href="{{context_path}}/content/resources/resumen de funciones.pdf" target="_blank" title="" rel="noopener">Resumen de funciones pdf. </a></p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/resumen de funciones.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098064733-xgx2v5xc2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> </p>\n<p>A través del siguiente enlace, os podéis descargar un fichero pdf con un resumen de lo que hemos visto en este tema.</p>\n<p>Espero que os sirva de ayuda.</p>\n<p><a href=\"{{context_path}}/content/resources/resumen de funciones.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">Resumen de funciones pdf. </a></p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/resumen de funciones.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+      <odeBlockId>block-1778098064733-oxjy8rzxz</odeBlockId>
+      <blockName>Rúbrica de valoración de la Tarea 4</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6n-7xumu1etv</odePageId>
+          <odeBlockId>block-1778098064733-oxjy8rzxz</odeBlockId>
+          <odeIdeviceId>idevice-1778098064733-m3o4vtgu6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os dejo una <a href="{{context_path}}/content/resources/Rúbrica del resumen realizado.pdf" target="_blank" title="" rel="noopener">rúbrica</a> con los aspectos que voy a valorar a la hora de realizar la tarea 3.</p>
+<p></p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Rúbrica del resumen realizado.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098064733-m3o4vtgu6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os dejo una <a href=\"{{context_path}}/content/resources/Rúbrica del resumen realizado.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">rúbrica</a> con los aspectos que voy a valorar a la hora de realizar la tarea 3.</p>\n<p></p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Rúbrica del resumen realizado.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6p-oxk3q8hj5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. Autoevaluación de la SdA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Autoevaluación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. Autoevaluación de la SdA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. Autoevaluación de la SdA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6p-oxk3q8hj5</odePageId>
+      <odeBlockId>block-1778098712100-1figy7xba</odeBlockId>
+      <blockName>Autoevaluación</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6p-oxk3q8hj5</odePageId>
+          <odeBlockId>block-1778098712100-1figy7xba</odeBlockId>
+          <odeIdeviceId>idevice-1778098712100-5hlww8wzv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Llega la hora de evaluar y reflexionar sobre lo que has aprendido en el tema:</p>
+<ul>
+<li>Encontrarás el enlace a la actividad en Google Classroom.</li>
+<li>Agrupamientos: La realizarás individualmente.</li>
+<li>Lugar de realización: En el aula clase desde los portátiles del instituto que tendré reservados.</li>
+<li>Herramientas: Utilizaremos Google Classroom para entrar al enlace del Kahoot y seguiremos las indicaciones que aparecen en la actividad. Un tutorial de Kahoot lo encontrarás en el Padlet.</li>
+<li>Duración aproximada: 1 hora de clase.</li>
+</ul>
+<p>Podrás acceder a kahoot a través del siguiente<a href="https://create.kahoot.it/details/948987cc-2472-4b5b-9076-a39ac235f58d?drawer=" target="_blank" title="" rel="noopener"> enlace</a>.</p>
+<p>Después introducirás el código que te pondré en la pizarra.</p>
+<p><br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778098712100-5hlww8wzv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Llega la hora de evaluar y reflexionar sobre lo que has aprendido en el tema:</p>\n<ul>\n<li>Encontrarás el enlace a la actividad en Google Classroom.</li>\n<li>Agrupamientos: La realizarás individualmente.</li>\n<li>Lugar de realización: En el aula clase desde los portátiles del instituto que tendré reservados.</li>\n<li>Herramientas: Utilizaremos Google Classroom para entrar al enlace del Kahoot y seguiremos las indicaciones que aparecen en la actividad. Un tutorial de Kahoot lo encontrarás en el Padlet.</li>\n<li>Duración aproximada: 1 hora de clase.</li>\n</ul>\n<p>Podrás acceder a kahoot a través del siguiente<a href=\"https://create.kahoot.it/details/948987cc-2472-4b5b-9076-a39ac235f58d?drawer=\" target=\"_blank\" title=\"\" rel=\"noopener\"> enlace</a>.</p>\n<p>Después introducirás el código que te pondré en la pizarra.</p>\n<p><br /> </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6q-lnm70f4es</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. Consejos a la hora de realizar los trabajos digitales</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Consejos a la hora de realizar los trabajos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Consejos a la hora de realizar los trabajos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. Consejos a la hora de realizar los trabajos digitales</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6q-lnm70f4es</odePageId>
+      <odeBlockId>block-1778099427914-iscojk6kc</odeBlockId>
+      <blockName>Infografía con consejos a la hora de realizar tus trabajos digitales</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6q-lnm70f4es</odePageId>
+          <odeBlockId>block-1778099427914-iscojk6kc</odeBlockId>
+          <odeIdeviceId>idevice-1778099427914-nxy84z7e3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, os voy a recordar los consejos que debemos tener en cuenta a la hora de realizar vuestras tareas o trabajos digitales.</p>
+<p>Descargar el archivo pdf que os dejo en el enlace que aparece más abajo y tenedlo presente en todos vuestros trabajos digitales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099427914-nxy84z7e3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, os voy a recordar los consejos que debemos tener en cuenta a la hora de realizar vuestras tareas o trabajos digitales.</p>\n<p>Descargar el archivo pdf que os dejo en el enlace que aparece más abajo y tenedlo presente en todos vuestros trabajos digitales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6q-lnm70f4es</odePageId>
+      <odeBlockId>block-1778099427915-0hqpgh893</odeBlockId>
+      <blockName>Consejos a la hora de realizar los trabajos digitales.</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6q-lnm70f4es</odePageId>
+          <odeBlockId>block-1778099427915-0hqpgh893</odeBlockId>
+          <odeIdeviceId>idevice-1778099427915-jfk6j425v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> Descargar el siguiente <a href="{{context_path}}/content/resources/Tarea 2.3 Infografía recomendaciones para el alumnado.pdf.pdf" target="_blank" title="" rel="noopener">pdf </a>y tenedlo siempre presente.<a href="{{context_path}}/content/resources/resumen de funciones.pdf" target="_blank" title="" rel="noopener"></a></p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Tarea 2.3 Infografía recomendaciones para el alumnado.pdf.pdf"></iframe><br /></p>
+<p><br /></p>
+<p style="text-align: center;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099427915-jfk6j425v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p> Descargar el siguiente <a href=\"{{context_path}}/content/resources/Tarea 2.3 Infografía recomendaciones para el alumnado.pdf.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">pdf </a>y tenedlo siempre presente.<a href=\"{{context_path}}/content/resources/resumen de funciones.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\"></a></p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Tarea 2.3 Infografía recomendaciones para el alumnado.pdf.pdf\"></iframe><br /></p>\n<p><br /></p>\n<p style=\"text-align: center;\"></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6t-lmox5c22i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6t-lmox5c22i</odePageId>
+      <odeBlockId>block-1778099854473-pk6ddsd74</odeBlockId>
+      <blockName>Justificación</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6t-lmox5c22i</odePageId>
+          <odeBlockId>block-1778099854473-pk6ddsd74</odeBlockId>
+          <odeIdeviceId>idevice-1778099854473-slmh949nf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Nuestro entorno más próximo esta formado por parejas de magnitudes que pueden guardar relación entre ellas. Con este tema pretendo que el alumnado adquiera los conocimientos y destrezas necesarias para poder interpretar su entorno cercano de una forma más científica y utilizando una serie de herramientas y conocimientos que le permita analizarlo y sacar las consecuencias lógicas que le permitan actuar en consecuencia.</p>
+<p style="text-align: justify;">     Esta SdA se encuentra principalmente dentro del bloque de Sentido Algebraico de la materia de Matemáticas B de 4º de ESO y se adapta a la legislación vigente. Contiene una serie de saberes básicos que permitirán que el alumnado adquiera las competencias específicas que establece la normativa vigente para este nivel educativo.</p>
+<p style="text-align: justify;">     Esta guía didáctica tiene como objetivo servir de ayuda al docente que utilice este recurso con su alumnado. La utilización de una Sda, una unidad didáctica o tema debe de estar planificada, temporalizada, cómo debe de llevarse a cabo, qué competencias específicas se pretende alcanzar, con qué saberes básicos, y criterios de evaluación se va a evaluar,.... </p>
+<p style="text-align: justify;">     En este apartado, pretendo justificar qué criterios de evaluación voy a valorar en cada una de las tareas de esta unidad, cómo y con qué instrumentos. <br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099854473-slmh949nf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Nuestro entorno más próximo esta formado por parejas de magnitudes que pueden guardar relación entre ellas. Con este tema pretendo que el alumnado adquiera los conocimientos y destrezas necesarias para poder interpretar su entorno cercano de una forma más científica y utilizando una serie de herramientas y conocimientos que le permita analizarlo y sacar las consecuencias lógicas que le permitan actuar en consecuencia.</p>\n<p style=\"text-align: justify;\">     Esta SdA se encuentra principalmente dentro del bloque de Sentido Algebraico de la materia de Matemáticas B de 4º de ESO y se adapta a la legislación vigente. Contiene una serie de saberes básicos que permitirán que el alumnado adquiera las competencias específicas que establece la normativa vigente para este nivel educativo.</p>\n<p style=\"text-align: justify;\">     Esta guía didáctica tiene como objetivo servir de ayuda al docente que utilice este recurso con su alumnado. La utilización de una Sda, una unidad didáctica o tema debe de estar planificada, temporalizada, cómo debe de llevarse a cabo, qué competencias específicas se pretende alcanzar, con qué saberes básicos, y criterios de evaluación se va a evaluar,.... </p>\n<p style=\"text-align: justify;\">     En este apartado, pretendo justificar qué criterios de evaluación voy a valorar en cada una de las tareas de esta unidad, cómo y con qué instrumentos. <br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6u-9kksb5rxp</odePageId>
+  <odeParentPageId>page-mox0zy6t-lmox5c22i</odeParentPageId>
+  <pageName>8.1. Legislación vigente en Andalucía.</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.1. Legislación vigente en Andalucía.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.1. Legislación vigente en Andalucía.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.1. Legislación vigente en Andalucía.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6u-9kksb5rxp</odePageId>
+      <odeBlockId>block-1778099854475-ztiibwcm2</odeBlockId>
+      <blockName>Normativa de referencia</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6u-9kksb5rxp</odePageId>
+          <odeBlockId>block-1778099854475-ztiibwcm2</odeBlockId>
+          <odeIdeviceId>idevice-1778099854475-nib577k28</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, paso a detallar la legislación educativa que he tenido en cuenta a la hora de desarrollar este proyecto:</p>
+<ul>
+<li style="text-align: justify;">La LOMLOE es del 29 de diciembre de 2020.<br /> </li>
+<li style="text-align: justify;">ORDEN de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas (BOJA 02-06-2023).<br /> </li>
+<li style="text-align: justify;">DECRETO 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía (BOJA 15-05-2023).<br />REAL DECRETO 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria (BOE 30-03-2022).</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099854475-nib577k28","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, paso a detallar la legislación educativa que he tenido en cuenta a la hora de desarrollar este proyecto:</p>\n<ul>\n<li style=\"text-align: justify;\">La LOMLOE es del 29 de diciembre de 2020.<br /> </li>\n<li style=\"text-align: justify;\">ORDEN de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determina el proceso de tránsito entre las diferentes etapas educativas (BOJA 02-06-2023).<br /> </li>\n<li style=\"text-align: justify;\">DECRETO 102/2023, de 9 de mayo, por el que se establece la ordenación y el currículo de la etapa de Educación Secundaria Obligatoria en la Comunidad Autónoma de Andalucía (BOJA 15-05-2023).<br />REAL DECRETO 217/2022, de 29 de marzo, por el que se establece la ordenación y las enseñanzas mínimas de la Educación Secundaria Obligatoria (BOE 30-03-2022).</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6v-krwz12wwc</odePageId>
+  <odeParentPageId>page-mox0zy6t-lmox5c22i</odeParentPageId>
+  <pageName>8.2. Relación de las tareas con los criterios de evaluación.</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.2. Relación de las tareas con los criterios de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8.2. Relación de las tareas con los criterios de evaluación.</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8.2. Relación de las tareas con los criterios de evaluación.</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6v-krwz12wwc</odePageId>
+      <odeBlockId>block-1778099854476-5bojro2wt</odeBlockId>
+      <blockName>Tareas y criterios de evaluación.</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6v-krwz12wwc</odePageId>
+          <odeBlockId>block-1778099854476-5bojro2wt</odeBlockId>
+          <odeIdeviceId>idevice-1778099854476-e1gvvvnoa</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En la tabla que expongo a continuación, paso a detallar los criterios de evaluación que se pretenden valorar, las tareas que se realizan, los instrumentos, los agrupamientos,....</p>
+<p>Pinchar en el enlace para descargar la <a href="{{context_path}}/content/resources/Relación tareas y criterios de evaluación.pdf" target="_blank" title="" rel="noopener">tabla.</a></p>
+<p><iframe width="600" height="300" src="{{context_path}}/content/resources/Relación tareas y criterios de evaluación.pdf"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778099854476-e1gvvvnoa","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En la tabla que expongo a continuación, paso a detallar los criterios de evaluación que se pretenden valorar, las tareas que se realizan, los instrumentos, los agrupamientos,....</p>\n<p>Pinchar en el enlace para descargar la <a href=\"{{context_path}}/content/resources/Relación tareas y criterios de evaluación.pdf\" target=\"_blank\" title=\"\" rel=\"noopener\">tabla.</a></p>\n<p><iframe width=\"600\" height=\"300\" src=\"{{context_path}}/content/resources/Relación tareas y criterios de evaluación.pdf\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mox0zy6w-c4swo3wyn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mox0zy6w-c4swo3wyn</odePageId>
+      <odeBlockId>block-1778100938566-nbbqk6bst</odeBlockId>
+      <blockName>Créditos</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6w-c4swo3wyn</odePageId>
+          <odeBlockId>block-1778100938566-nbbqk6bst</odeBlockId>
+          <odeIdeviceId>idevice-1778100938566-shm9rv62b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso está destinado al alumnado de Matemáticas, opción B, 4º de ESO con el título de "Las funciones que nos rodean: mirada matemática a lo cotidiano", se ha publicado por María José Pérez Mudarra como autora y bajo Licencia <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.es?utm_source=chatgpt.com" target="_blank" title="" rel="noopener">Creative Common Reconocimiento Compartir igual 4.0 </a></p>
+<ul>
+<li>Significa que tienes la posibilidad de poder usarlo, descargarlo, redistribuirlo y modificarlo para adaptarlo a tus necesidades.</li>
+<li>Los siguientes pasos te servirán de ayuda para usar/redistribuir/modificar este recurso:<br />   1. Descarga el archivo fuente. Con esto tienes el recurso original en formato editable.<br />   2.  Modifícalo usando <a href="https://exelearning.net" target="_blank" title="" rel="noopener">eXeLearning.</a></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778100938566-shm9rv62b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso está destinado al alumnado de Matemáticas, opción B, 4º de ESO con el título de \"Las funciones que nos rodean: mirada matemática a lo cotidiano\", se ha publicado por María José Pérez Mudarra como autora y bajo Licencia <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.es?utm_source=chatgpt.com\" target=\"_blank\" title=\"\" rel=\"noopener\">Creative Common Reconocimiento Compartir igual 4.0 </a></p>\n<ul>\n<li>Significa que tienes la posibilidad de poder usarlo, descargarlo, redistribuirlo y modificarlo para adaptarlo a tus necesidades.</li>\n<li>Los siguientes pasos te servirán de ayuda para usar/redistribuir/modificar este recurso:<br />   1. Descarga el archivo fuente. Con esto tienes el recurso original en formato editable.<br />   2.  Modifícalo usando <a href=\"https://exelearning.net\" target=\"_blank\" title=\"\" rel=\"noopener\">eXeLearning.</a></li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mox0zy6w-c4swo3wyn</odePageId>
+      <odeBlockId>block-1778168833188-rjcn6dioj</odeBlockId>
+      <blockName>Créditos de las imágenes o recursos externos.</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mox0zy6w-c4swo3wyn</odePageId>
+          <odeBlockId>block-1778168833188-rjcn6dioj</odeBlockId>
+          <odeIdeviceId>idevice-1778168833184-57a5ceoeu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>He realizado un vídeo de  las imágenes utilizadas en el eXeLearning  en el que aparecen las distintas imágenes con su autor y licencia. </p>
+<figure class="exe-figure exe-media position-center license-CC-BY-NC-SA" style="width: 300px;">
+<figcaption class="figcaption header"><strong>Vídeo de las imágenes utilizadas y su licencia</strong></figcaption>
+<video width="300" height="150" controls="controls" autoplay="autoplay" muted="muted">
+<source src="{{context_path}}/content/resources/presentación imágenes.mp4" type="video/mp4" /></video>
+<figcaption class="figcaption"><a href="www:apuntesmareaverde.org.es" target="_blank" class="author" rel="noopener">Apuntes Marea Verde/José Gallegos Fernández</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778168833184-57a5ceoeu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>He realizado un vídeo de  las imágenes utilizadas en el eXeLearning  en el que aparecen las distintas imágenes con su autor y licencia. </p>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-NC-SA\" style=\"width: 300px;\">\n<figcaption class=\"figcaption header\"><strong>Vídeo de las imágenes utilizadas y su licencia</strong></figcaption>\n<video width=\"300\" height=\"150\" controls=\"controls\" autoplay=\"autoplay\" muted=\"muted\">\n<source src=\"{{context_path}}/content/resources/presentación imágenes.mp4\" type=\"video/mp4\" /></video>\n<figcaption class=\"figcaption\"><a href=\"www:apuntesmareaverde.org.es\" target=\"_blank\" class=\"author\" rel=\"noopener\">Apuntes Marea Verde/José Gallegos Fernández</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
